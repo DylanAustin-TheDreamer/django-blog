@@ -12,6 +12,8 @@ ENV/
 .venv*/
 .venv-1/
 *.sqlite3
+#json
+blog/fixtures/
 
 # Django
 db.sqlite3
